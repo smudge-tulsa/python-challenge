@@ -10,6 +10,6 @@ PyPoll intends to assist a small municipality modernize its polling procedures b
 
 File structure
 --------------
-Each project has python source code (main.py) two subfolders<br>
+Each project has python source code (main.py) and two subfolders<br>
 <li>analysis contains a .txt file with the results </li>
 <li>Resources contains the source data</li>
