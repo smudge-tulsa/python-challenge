@@ -1,0 +1,16 @@
+
+Financial Analysis
+
+----------------------------
+
+Total Months: 86
+
+Total: 22564198
+
+Average Change: -8311.105882352942
+
+Greatest Increase in Profits: 79    16-Aug
+Name: Date, dtype: object (1862002.0)
+
+Greatest Decrease in Profits: 49    14-Feb
+Name: Date, dtype: object (-1825558.0)
