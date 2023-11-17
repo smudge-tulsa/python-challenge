@@ -10,16 +10,6 @@ PyPoll intends to assist a small municipality modernize its polling procedures b
 
 File structure
 --------------
-python-challenge repo
-|--- PyBank
-|    |--- analysis
-|         |--- analysis.txt (analytical results, also printed to standard out at runtime)
-|    |--- Resources
-|         |--- budget_data.csv
-|    |--- main.py (Python source code)
-|--- PyPoll
-|     |--- analysis
-|          |--- poll_results.txt (analytical results, also printed to standard out at runtime)
-|     |--- Resources
-|          |--- election_data.csv (source data)
-|     |--- main.py (Python source code)
+Each project has python source code (main.py) two subfolders<br>
+<li>analysis contains a .txt file with the results </li>
+<li>Resources contains the source data</li>
